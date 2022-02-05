@@ -6,6 +6,6 @@ public class SkillDemoTest
     @Test
     public void addition()
     {
-        assertEquals(2, SkillDemo.add(1, 3)); // fails initially
+        assertEquals(2, SkillDemo.add(1, 1)); // fails initially
     }
 }
